@@ -1,4 +1,4 @@
-hub hub
+hub Core_RT
 shortLabel pred_rt
 longLabel Core Cell-Independent RT and Predicted RT Values from LightGBM model
 genomesFile predicted_rt.genomes.txt
