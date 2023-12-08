@@ -1,4 +1,4 @@
-track Predicted Core RT 
+track predictedrt 
 bigDataUrl predictedrt.bigWig
 shortLabel Predicted Core RT 
 longLabel Cell-Type Independent RT predicted using a LightGBM regressor trained on the "Core RT" track data
@@ -7,7 +7,7 @@ visibility full
 color 128,0,5
 autoScale on
 
-track Core RT
+track corert
 bigDataUrl corert.bigWig
 shortLabel Core RT 
 longLabel Cell-Type Independent RT aggregated from 56 human cell types
