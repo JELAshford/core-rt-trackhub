@@ -1,5 +1,5 @@
 hub Core_RT
-shortLabel Cell-Type Independent RT 
-longLabel Core Cell-Independent RT and Predicted RT Values from LightGBM model
+shortLabel "Cell-Type Independent RT "
+longLabel "Core Cell-Independent RT and Predicted RT Values from LightGBM model"
 genomesFile genomes.txt
 email ashfordj@rocketmail.com
