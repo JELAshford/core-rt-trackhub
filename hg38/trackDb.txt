@@ -1,0 +1,17 @@
+track predictedrt
+bigDataUrl predictedrt.bigWig
+shortLabel predictedrt
+longLabel predictedrt
+type bigWig
+visibility full
+color 128,0,5
+autoScale on
+
+track corert
+bigDataUrl corert.bigWig
+shortLabel corert
+longLabel corert
+type bigWig
+visibility full
+color 128,0,5
+autoScale on
